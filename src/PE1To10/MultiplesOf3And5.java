@@ -1,5 +1,6 @@
+package PE1To10;
+
 import java.util.ArrayList;
-import java.util.List;
 
 public class MultiplesOf3And5 {
     // first problem of project euler
